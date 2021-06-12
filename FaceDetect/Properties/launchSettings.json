@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FaceDetect": {
+      "commandName": "Project",
+      "commandLineArgs": "281293483 \"C:\\Users\\zexve\\Pictures\\driver_chunggil_han.jpg\""
+    }
+  }
+}
